@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @niel-itarch
 - 👀 I’m interested in microservices
 - 🌱 I’m currently learning Github actions and Flow
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Fintech services
 - 📫 Reach me at niel@itarch.co.uk
 
 <!---
